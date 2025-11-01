@@ -53,9 +53,9 @@ I started learning to code at 12 and built my first working system for a real cl
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOURUSERNAME"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YOURUSERNAME"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/bekhruztursunboyev"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/BekhruzTursunboev"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/></a>
+  <a href="mailto:turusnbaevbexruz19@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/></a>
   <a href="https://youtube.com/@YOURCHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
 </p>
 
