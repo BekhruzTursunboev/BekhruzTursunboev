@@ -2,7 +2,7 @@
 <h3 align="center">🚀 16 y/o Software Developer | Builder of Impactful Tech | Future Innovator</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BekhruzTursunboev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
