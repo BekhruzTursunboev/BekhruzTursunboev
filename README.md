@@ -16,7 +16,7 @@ I started learning to code at 12 and built my first working system for a real cl
 ### 🧠 What I Do
 - 🏫 **Built Target School Website** — a full-stack platform with student results, dorm system, and admin dashboard.  
 - 🤖 **AI + Automation Projects** — bots and systems using Google Apps Script, JS, and Python.  
-- 💼 **Founder of Target Coders IT Club** — mentoring peers to build real-world apps and freelance.  
+- 💼 **Founder of Target Coders IT Community** — mentoring peers to build real-world apps and freelance.  
 - 🎥 **YouTube Creator** — teaching coding + AI tools in Uzbek & English to inspire young devs.  
 
 ---
