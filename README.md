@@ -46,7 +46,7 @@ I started learning to code at 12 and built my first working system for a real cl
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BekhruzTursunboev&theme=radical" alt="streak" />
 </p>
 
 ---
