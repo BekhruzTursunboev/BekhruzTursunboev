@@ -63,5 +63,5 @@ I started learning to code at 12 and built my first working system for a real cl
 
 <div align="center">
   <h3>✨ “Code it. Build it. Ship it. Inspire others.”</h3>
-  <p>— Bexruz Tursunbaev</p>
+  <p>— Bexruz Tursunbayev</p>
 </div>
