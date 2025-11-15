@@ -19,7 +19,7 @@ I started learning to code at 12 and built my first working system for a real cl
 - 💼 **Founder of Target Coders IT Community** — mentoring peers to build real-world apps and freelance.  
 - 🎥 **YouTube Creator** — teaching coding + AI tools in Uzbek & English to inspire young devs.  
 
----
+--
 
 ### ⚙️ Tech Stack
 <div align="center">
