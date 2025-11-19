@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BekhruzTursunboev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
---
+---
 
 ### 💡 About Me
 Hey, I’m **Bexruz**, a 16-year-old dev from Uzbekistan who believes tech isn’t just code — it’s *power to create change*.  
@@ -19,7 +19,7 @@ I started learning to code at 12 and built my first working system for a real cl
 - 💼 **Founder of Target Coders IT Community** — mentoring peers to build real-world apps and freelance.  
 - 🎥 **YouTube Creator** — teaching coding + AI tools in Uzbek & English to inspire young devs.  
 
---
+---
 
 ### ⚙️ Tech Stack
 <div align="center">
