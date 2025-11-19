@@ -39,7 +39,7 @@ I started learning to code at 12 and built my first working system for a real cl
 | Project | Description | Tech |
 |----------|--------------|------|
 | 🏫 **School Website System** | Full-stack web app managing student data, results & content | HTML, CSS, JS, Node.js |
-| 🤖 **Real Estate Automation Bot** | Telegram + Google Sheets integration for listings | JS, Apps Script |
+| 🤖 **Real Estate Automation Bot** | Telegram + Google Sheets integration for listings | JS, Next.js,Apps Script, React.js|
 | 💬 **Target Coders Portal** | Hub for student coders to collaborate & learn | React, Firebase |
 
 ---
