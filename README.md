@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm <span style="color:#4F46E5;">Bexruz Tursunbaev</span></h1>
-<h3 align="center">🚀 16 y/o Software Developer | Builder of Impactful Tech | Future Innovator</h3>
+<h3 align="center">🚀 17 y/o Software Developer | Builder of Impactful Tech | Future Innovator</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BekhruzTursunboev&show_icons=true&theme=radical" alt="GitHub Stats" />
