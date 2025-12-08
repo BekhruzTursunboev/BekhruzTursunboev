@@ -1,9 +1,9 @@
 <h1 align="center">Bexruz Tursunbaev</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Developer | AI engineer</h3>
 
 <p align="center">
   <a href="https://github.com/BekhruzTursunboev">
-    <img src="https://github-readme-stats.vercel.app/api?username=BekhruzTursunboev&show_icons=true&hide_title=true" />
+
   </a>
 </p>
 
