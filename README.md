@@ -14,31 +14,11 @@ I build practical software and automation tools. I started coding at 12 and comp
 
 ---
 
-### Work
-- School platform with student data, content system, and dashboards  
-- Automation tools using Python, JS, and Google Apps Script  
-- Real estate listing bot used in daily workflows  
-- Founder of Target Coders, a student dev community  
-- YouTube content on coding and AI tools in Uzbek and English  
-
----
-
 ### Stack
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,express,mongodb,github,vscode,figma" />
 </div>
-
 ---
-
-### Projects
-| Project | Summary | Tech |
-|--------|---------|------|
-| School Platform | System for data management and content updates | JS, Node.js |
-| Real Estate Bot | Automated property listing workflow | Apps Script, JS |
-| Target Coders Portal | Space for student developers | React, Firebase |
-
----
-
 ### Connect
 <p>
   <a href="https://linkedin.com/in/bekhruztursunboyev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
