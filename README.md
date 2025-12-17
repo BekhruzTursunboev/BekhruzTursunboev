@@ -18,7 +18,9 @@ I build practical software and automation tools. I started coding at 12 and comp
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,express,mongodb,github,vscode,figma" />
 </div>
+
 ---
+
 ### Connect
 <p>
   <a href="https://linkedin.com/in/bekhruztursunboyev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
