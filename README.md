@@ -26,5 +26,5 @@ I build practical software and automation tools. I started coding at 12 and comp
   <a href="https://linkedin.com/in/bekhruztursunboyev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
   <a href="mailto:turusnbaevbexruz19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/BekhruzTursunboev"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
-  <a href="https://youtube.com/@YOURCHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@BexruzTursunboev"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
 </p>
